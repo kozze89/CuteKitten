@@ -1,10 +1,10 @@
 #!/bin/bash
 
-wget -O /tmp/cute-kitten1.jpg http://kittens.nerdwa.com/cute-kitten1.jpg > /dev/null 2>&1
-wget -O /tmp/cute-kitten2.jpg http://kittens.nerdwa.com/cute-kitten2.jpg > /dev/null 2>&1
-wget -O /tmp/cute-kitten3.jpg http://kittens.nerdwa.com/cute-kitten3.jpg > /dev/null 2>&1
-wget -O /tmp/cute-kitten4.jpg http://kittens.nerdwa.com/cute-kitten4.jpg > /dev/null 2>&1
-wget -O /tmp/cute-kitten5.jpg http://kittens.nerdwa.com/cute-kitten5.jpg > /dev/null 2>&1
+wget -O /tmp/cute-kitten1.jpg https://github.com/kozze89/CuteKitten/blob/master/cute-kitten1.jpg > /dev/null 2>&1
+wget -O /tmp/cute-kitten2.jpg https://github.com/kozze89/CuteKitten/blob/master/cute-kitten2.jpg > /dev/null 2>&1
+wget -O /tmp/cute-kitten3.jpg https://github.com/kozze89/CuteKitten/blob/master/cute-kitten3.jpg > /dev/null 2>&1
+wget -O /tmp/cute-kitten4.jpg https://github.com/kozze89/CuteKitten/blob/master/cute-kitten4.jpg > /dev/null 2>&1
+wget -O /tmp/cute-kitten5.jpg https://github.com/kozze89/CuteKitten/blob/master/cute-kitten5.jpg > /dev/null 2>&1
 
 function setBg
 {
